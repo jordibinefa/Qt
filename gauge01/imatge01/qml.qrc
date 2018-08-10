@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Indicador00.ui.qml</file>
+        <file>ValueSource.qml</file>
+    </qresource>
+    <qresource prefix="/imatges">
+        <file>imatges/capabusca.png</file>
+        <file>imatges/capabisellexterior.png</file>
+        <file>imatges/capabisellinterior.png</file>
+        <file>imatges/capablanca.png</file>
+        <file>imatges/capabrillant.png</file>
+        <file>imatges/capafosca.png</file>
+        <file>imatges/capaliniesblanquesindicador02.png</file>
+        <file>imatges/capaliniesindicador.png</file>
+        <file>imatges/capaliniesindicador02.png</file>
+        <file>imatges/capanumerosindicador.png</file>
+        <file>imatges/capavoraexterior.png</file>
+        <file>imatges/capavorainterior.png</file>
+        <file>imatges/fons.png</file>
+    </qresource>
+</RCC>
