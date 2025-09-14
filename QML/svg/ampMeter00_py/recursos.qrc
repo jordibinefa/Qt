@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="agulla.svg">material/AmpMeterAgulla_c.svg</file>
+        <file alias="fons.svg">material/AmpMeterFons_c.svg</file>
+        <file>material/AmpMeterAgulla_c.svg</file>
+        <file>material/AmpMeterFons_c.svg</file>
+    </qresource>
+</RCC>
